@@ -11,7 +11,7 @@ API was developed through a video lesson from (https://www.youtube.com/watch?v=5
 
 ## Table of Contents
 
-- [Installation](#installation)
+- [Installation](#installation) 
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
