@@ -6,7 +6,7 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 
 This project is an API built using **Java, Java Spring, Flyway Migrations, PostgresSQL as the database, and Spring Security and JWT for authentication control.**
-
+ 
 API was developed through a video lesson from (https://www.youtube.com/watch?v=5w-YCcOjPD0), adapted for a project to authenticate and authorize Spring applications using Spring Security.
 
 ## Table of Contents
